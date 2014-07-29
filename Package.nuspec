@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Package</id>
+    <version>1.0.0</version>
+    <authors>Fernando de Figueiredo Torres</authors>
+    <owners>Fernando de Figueiredo Torres</owners>
+    <projectUrl>http://github.com/nandotorres/SemanticUI.ASP.NET.MVC.git</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds support for Semantic-UI to your ASP.NET MVC project.</description>
+    <copyright>Copyright 2014</copyright>
+    <tags>SemanticUI CSS Bootstrap</tags>
+    <dependencies>
+      <!--  dependency id="SampleDependency" version="1.0"  -->
+    </dependencies>
+  </metadata>
+</package>

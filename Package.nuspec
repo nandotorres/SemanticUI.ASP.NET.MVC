@@ -2,16 +2,17 @@
 <package >
   <metadata>
     <id>SemanticUI.ASP.NET.MVC</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>Fernando de Figueiredo Torres</authors>
     <owners>Fernando de Figueiredo Torres</owners>
     <projectUrl>http://github.com/nandotorres/SemanticUI.ASP.NET.MVC.git</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Adds support for Semantic-UI to your ASP.NET MVC project.</description>
+    <description>Add support for Semantic-UI in your fresh ASP.NET MVC project.</description>
     <copyright>Copyright 2014</copyright>
     <tags>SemanticUI CSS Bootstrap</tags>
     <dependencies>
-      <!--  dependency id="SampleDependency" version="1.0"  -->
+	  <dependency id="WebActivatorEx" version="2.0.0" />
+      <dependency id="jQuery" />
     </dependencies>
   </metadata>
 </package>

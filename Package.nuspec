@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Package</id>
-    <version>1.0.0</version>
+    <id>SemanticUI.ASP.NET.MVC</id>
+    <version>1.0.1</version>
     <authors>Fernando de Figueiredo Torres</authors>
     <owners>Fernando de Figueiredo Torres</owners>
     <projectUrl>http://github.com/nandotorres/SemanticUI.ASP.NET.MVC.git</projectUrl>

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace SemanticUIBlankApp
+namespace $rootnamespace$
 {
     public class BundleConfig
     {
